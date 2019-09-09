@@ -1,0 +1,6 @@
+/Users/mac/Projects/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms/bin/Debug/Basic_Sorting_Algorithms.exe
+/Users/mac/Projects/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms/bin/Debug/Basic_Sorting_Algorithms.pdb
+/Users/mac/Projects/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms/obj/Debug/Basic_Sorting_Algorithms.csprojAssemblyReference.cache
+/Users/mac/Projects/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms/obj/Debug/Basic_Sorting_Algorithms.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms/obj/Debug/Basic_Sorting_Algorithms.exe
+/Users/mac/Projects/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms/obj/Debug/Basic_Sorting_Algorithms.pdb
